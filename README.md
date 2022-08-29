@@ -5,7 +5,7 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/subodh30/se22-grp20-hw1">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/subodh30/se22-grp20-hw1">
 
-## Installation Steps
+## Run Instructions
 
 ---
 1. Clone the github repository in your system. Once the repository is cloned, using cd command move in the reopisitory,
