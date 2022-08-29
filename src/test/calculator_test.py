@@ -22,4 +22,4 @@ def test_modulus():
 
 
 def test_power():
-    assert power(9, 2) == 81
+    assert power(2, 3) == 8
