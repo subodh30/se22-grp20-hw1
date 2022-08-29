@@ -1,4 +1,4 @@
-from src.code.calculator import addition, subtraction, division, multiplication, mod, power, isPalindrome
+from src.code.calculator import addition, subtraction, division, multiplication, mod, power
 
 
 def test_addition():
@@ -24,5 +24,4 @@ def test_modulus():
 def test_power():
     assert power(2, 3) == 8
 
-def test_ispalindrome():
-    assert isPalindrome("racecar") == True
+
