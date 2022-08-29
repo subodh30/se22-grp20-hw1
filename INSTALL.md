@@ -16,3 +16,5 @@ For installing the dependencies, you can run the following commands
 ```
 $ pip install -r requirements.txt
 ```
+
+Once the installation of all packages is complete, go ahead and run the src/code/filename.py
