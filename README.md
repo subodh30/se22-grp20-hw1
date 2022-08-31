@@ -2,7 +2,7 @@
 
 <a href="https://github.com/subodh30/se22-grp20-hw1/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/subodh30/se22-grp20-hw1/Python%20Calculator"></a>
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/subodh30/se22-grp20-hw1?style=social">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/subodh30/se22-grp20-hw1">
+<a href="https://github.com/subodh30/se22-grp20-hw1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/subodh30/se22-grp20-hw1"></a>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/subodh30/se22-grp20-hw1">
 
 
