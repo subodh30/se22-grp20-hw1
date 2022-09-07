@@ -4,6 +4,7 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/subodh30/se22-grp20-hw1?style=social">
 <a href="https://github.com/subodh30/se22-grp20-hw1/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/subodh30/se22-grp20-hw1"></a>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/subodh30/se22-grp20-hw1">
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7058073.svg)](https://doi.org/10.5281/zenodo.7058073)
 
 
 ## Run Instructions
